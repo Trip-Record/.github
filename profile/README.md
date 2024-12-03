@@ -1,6 +1,7 @@
 ## 트립레코드
+<br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ad4f5176-cef4-4ee6-928b-fe2406da99bf" alt="로고 작은버전" width="450px">
+  <img src="https://github.com/user-attachments/assets/ad4f5176-cef4-4ee6-928b-fe2406da99bf" alt="로고 작은버전" width="430px">
 </p> <br>
 
 <p align="center">
