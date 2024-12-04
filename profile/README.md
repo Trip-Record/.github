@@ -1,3 +1,5 @@
+<br>
+
 ## ✈️ 트립레코드 
 <br>
 <p align="center">
@@ -29,6 +31,15 @@
 
 <br>
 
+
+## 🔹 주요 기능 화면
+![3](https://github.com/user-attachments/assets/31155ee3-9eae-435d-a0a7-ffce4634d0ad) <br> <br> <br> <br>
+![트립레코드  (1)](https://github.com/user-attachments/assets/f7ff2529-397d-4d09-be95-c11e5c935886)
+
+
+
+<br>
+
 ## 🔹 Contributor
 | <img width="180px" alt="서현" src="https://github.com/khoikangim.png"> | <img width="180px" alt="채은" src="https://github.com/ChaeAg.png"> | <img width="180px" alt="시원" src="https://github.com/muncool39.png"> | <img width="180px" alt="서연" src="https://github.com/gitseoyeon.png"> |
 |:----------------------------------------------------------------------:|:-------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|
@@ -43,7 +54,7 @@
 <br><br>
 
 ## 🔹 개발 환경
-<img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><br>
+<img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <br>
 <br>
 
 ## 🔹 시스템 구성도
