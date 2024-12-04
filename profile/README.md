@@ -62,5 +62,8 @@
 <br>
 
 ## 🔹 시연 영상
-![이미지](https://github.com/user-attachments/assets/0d67dce0-f129-450a-879e-32f6c2510002) <br>
+
+
+
+https://github.com/user-attachments/assets/13cdde60-9744-48aa-8fe5-e011fcedc09a <br> <br>
 
