@@ -63,13 +63,14 @@
 <br>
 
 ## 🔹 시스템 구성도
-![이미지](https://github.com/user-attachments/assets/0d67dce0-f129-450a-879e-32f6c2510002)
+<img width="700" alt="화면 캡처 2024-12-05 181307" src="https://github.com/user-attachments/assets/8138f892-ac83-4145-86ab-790207fb5ad8">
+
 <br>
 
 ## 🔹 시연 영상
-![이미지](https://github.com/user-attachments/assets/0d67dce0-f129-450a-879e-32f6c2510002)
-<br>
+https://github.com/user-attachments/assets/475aadaa-b40f-4538-ba36-9b5b9608ca86
 
-https://github.com/user-attachments/assets/13cdde60-9744-48aa-8fe5-e011fcedc09a 
 <br> <br>
+
+
 
