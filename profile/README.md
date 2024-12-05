@@ -4,14 +4,14 @@
 <br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad4f5176-cef4-4ee6-928b-fe2406da99bf" alt="로고 작은버전" width="430px">
-</p> <br>
+</p> <br> 
 
 <p align="center">
   <strong>트립레코드</strong>는 여행을 즐기는 사용자들이 <strong>자신의 여행 경험을 기록하고 공유</strong>할 수 있는 서비스로 <br>
   사용자들은 <strong>다른 사람들과의 소통</strong>을 통해 더욱 효율적인 <strong>여행 일정을 계획</strong>할 수 있습니다. <br>
   <strong>여행지 랭킹</strong>을 통해 매달 인기 여행지와 관련 정보를 확인하여 여행을 준비하는 데 도움을 받을 수 있습니다.
 </p>
-<br>
+<br> <br> <br>
 
 ## 🔹 주요 기능
 - **여행 스타일 등록**:
@@ -33,10 +33,15 @@
 
 
 ## 🔹 주요 기능 화면
-![3](https://github.com/user-attachments/assets/31155ee3-9eae-435d-a0a7-ffce4634d0ad) <br> <br> <br> <br>
-![트립레코드  (1)](https://github.com/user-attachments/assets/f7ff2529-397d-4d09-be95-c11e5c935886)
+![트립레코드  (2)](https://github.com/user-attachments/assets/44fcfccf-5b25-4f0a-8052-b0579e13557a)  <br> <br> <br> <br>
+![트립레코드  (3)](https://github.com/user-attachments/assets/7912adbc-6127-4507-9421-0152f0180381)
 
 
+
+<br>
+
+## 🔹 프로젝트 개발 기간
+2024.01 ~ 2024.03
 
 <br>
 
