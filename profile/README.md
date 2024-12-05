@@ -46,17 +46,23 @@
 <br>
 
 ## 🔹 Contributor
-| <img width="180px" alt="서현" src="https://github.com/khoikangim.png"> | <img width="180px" alt="채은" src="https://github.com/ChaeAg.png"> | <img width="180px" alt="시원" src="https://github.com/muncool39.png"> | <img width="180px" alt="서연" src="https://github.com/gitseoyeon.png"> |
-|:----------------------------------------------------------------------:|:-------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|
-|              [김서현](https://github.com/khoikangim)              |               [이채은](https://github.com/ChaeAg)              |               [문시원](https://github.com/muncool39)              |               [민서연](https://github.com/gitseoyeon)              |
-|                     팀장(PM), UI 설계                     |                          백엔드                          |                          백엔드                          |                          백엔드                          |
+| <img width="160px" alt="서현" src="https://github.com/khoikangim.png"> | 
+|:----------------------------------------------------------------------:|
+|              [김서현](https://github.com/khoikangim)              |          
+|                     팀장(PM), UI 설계                     |           
 
-| <img width="180px" alt="민기" src="https://github.com/Nail0606.png"> | <img width="180px" alt="선호" src="https://github.com/Sunho-97.png"> | <img width="180px" alt="용준" src="https://github.com/Goongam.png"> |
+| <img width="160px" alt="채은" src="https://github.com/ChaeAg.png"> | <img width="160px" alt="서연" src="https://github.com/gitseoyeon.png"> | <img width="160px" alt="시원" src="https://github.com/muncool39.png"> |
+|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:-------------------------------------------------------------------:|
+|               [이채은](https://github.com/ChaeAg)              |              [민서연](https://github.com/gitseoyeon)              |               [문시원](https://github.com/muncool39)              |
+|                          백엔드                          |                          백엔드                          |                          백엔드                          |
+
+
+| <img width="160px" alt="민기" src="https://github.com/Nail0606.png"> | <img width="160px" alt="선호" src="https://github.com/Sunho-97.png"> | <img width="160px" alt="용준" src="https://github.com/Goongam.png"> |
 |:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:-------------------------------------------------------------------:|
 |               [조민기](https://github.com/Nail0606)              |              [김선호](https://github.com/Sunho-97)              |               [이용준](https://github.com/Goongam)              |
 |                          프론트엔드                          |                          프론트엔드                          |                          프론트엔드                          |
 
-<br><br>
+<br> <br>
 
 ## 🔹 개발 환경
 <img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <br>
