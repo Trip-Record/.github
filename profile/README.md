@@ -33,10 +33,8 @@
 
 
 ## 🔹 주요 기능 화면
-![트립레코드  (2)](https://github.com/user-attachments/assets/44fcfccf-5b25-4f0a-8052-b0579e13557a)  <br> <br> <br> <br>
-![트립레코드  (3)](https://github.com/user-attachments/assets/7912adbc-6127-4507-9421-0152f0180381)
-
-
+![트립레코드 ](https://github.com/user-attachments/assets/b83b815c-4d54-463b-9966-1c3fb4211891)   <br> <br> <br> <br>
+![트립레코드  (1)](https://github.com/user-attachments/assets/888ca441-5d79-4a41-99e6-27f5da42adf2)
 
 <br>
 
@@ -69,9 +67,10 @@
 <br>
 
 ## 🔹 시스템 구성도
-<img width="700" alt="화면 캡처 2024-12-05 181307" src="https://github.com/user-attachments/assets/8138f892-ac83-4145-86ab-790207fb5ad8">
+<img width="700" alt="Group 61" src="https://github.com/user-attachments/assets/273c4c73-03cb-43f4-9f81-5b120e850a23">
 
 <br>
+
 
 ## 🔹 시연 영상
 https://github.com/user-attachments/assets/475aadaa-b40f-4538-ba36-9b5b9608ca86
