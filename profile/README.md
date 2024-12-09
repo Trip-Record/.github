@@ -39,7 +39,7 @@
 <br>
 
 ## 🔹 프로젝트 개발 기간
-2024.01 ~ 2024.03
+**2024.01 ~ 2024.03**
 
 <br>
 
@@ -66,6 +66,8 @@
 <img src="https://img.shields.io/badge/java 17-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=black">   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black"> 
 <br>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=181717"/>
+<br> <br> <br>
 
 ## 🔹 시스템 구성도
 <img width="700" alt="Group 61" src="https://github.com/user-attachments/assets/273c4c73-03cb-43f4-9f81-5b120e850a23">
@@ -74,7 +76,9 @@
 
 
 ## 🔹 시연 영상
-https://github.com/user-attachments/assets/475aadaa-b40f-4538-ba36-9b5b9608ca86
+https://github.com/user-attachments/assets/0e4b49a1-fecc-4bb9-9acc-420f5c1fa394
+
+
 
 <br> <br>
 
